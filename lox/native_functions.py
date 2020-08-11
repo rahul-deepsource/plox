@@ -1,6 +1,7 @@
+import time
+
 from lox.LoxCallable import LoxCallable
 
-import time
 
 class Clock(LoxCallable):
     @property
